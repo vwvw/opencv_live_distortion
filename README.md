@@ -1,6 +1,6 @@
 # OpenCV live undistortion
 
- This repo contains an PyQT app that allows modifying the different distortion coefficient used by OpenCV and get a live undistortion of a target image. It can be useful to fine tune some parameters but is not meant for a full calibration as the parameter space is way too big.
+ This repo contains an PyQT app that allows modifying the different distortion coefficient used by OpenCV and get a live undistortion of a target image. It can be useful to fine tune some parameters but is not meant for a full calibration as the parameter space is way too big. I can recommend [RTBMap](http://introlab.github.io/rtabmap/) and the calibration tool present in the Settings for an initial guess.
 
 ![Screenshot](./screenshot.png)
 
